@@ -1,0 +1,4 @@
+/* 모든 사이트 공통 */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+* { font-family: "Noto Sans", sans-serif; }
+.dn { display: none !important; }
